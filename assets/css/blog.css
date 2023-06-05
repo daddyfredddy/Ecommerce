@@ -1,0 +1,53 @@
+.blog {
+  position: absolute;
+  width: 1206px;
+  height: 439px;
+  left: 37px;
+  top: 2034px;
+}
+#news {
+  position: absolute;
+  width: 202px;
+  height: 26px;
+  left: calc(50% - 202px / 2 - 5px);
+  top: 0px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 25px;
+  /* or 83% */
+
+  text-align: center;
+
+  color: #000000;
+}
+.group19 {
+  position: absolute;
+  width: 1206px;
+  height: 380px;
+  left: 37px;
+  top: 59px;
+}
+.article1 {
+  position: absolute;
+  width: 380px;
+  height: 380px;
+  left: 0px;
+  top: 0px;
+}
+.article2 {
+  position: absolute;
+  width: 380px;
+  height: 380px;
+  left: 413px;
+  top: 0px;
+}
+.article3 {
+  position: absolute;
+  width: 380px;
+  height: 380px;
+  left: calc(50% - 380px / 2 + 413px);
+  top: 0px;
+}

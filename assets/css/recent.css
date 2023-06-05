@@ -1,0 +1,129 @@
+.recent-products {
+  position: absolute;
+  width: 1206px;
+  height: 677px;
+  left: calc(50% - 1206px / 2);
+  top: 1253px;
+}
+
+#best {
+  position: absolute;
+  width: 202px;
+  height: 26px;
+  left: calc(50% - 202px / 2);
+  top: 0px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 25px;
+  /* or 83% */
+
+  text-align: center;
+
+  color: #000000;
+}
+.group15 {
+  position: absolute;
+  width: 1205px;
+  height: 281px;
+  left: 37px;
+  top: 79px;
+}
+.furniture {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  left: 0px;
+  top: 0px;
+
+  background: rgba(52, 48, 48, 0.5);
+
+  background-image: url(../images/img4.webp);
+}
+.cup {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  left: 308px;
+  top: 0px;
+
+  background: rgba(52, 48, 48, 0.5);
+
+  background-image: url(../images/img5.webp);
+}
+.bag {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  left: 616px;
+  top: 0px;
+
+  background: rgba(52, 48, 48, 0.5);
+
+  background-image: url(../images/img6.webp);
+}
+.pencil-holder {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  left: 925px;
+  top: 0px;
+
+  background: rgba(52, 48, 48, 0.5);
+
+  background-image: url(../images/img7.webp);
+}
+.group16 {
+  position: absolute;
+  width: 1206px;
+  height: 281px;
+  left: 37px;
+  top: 396px;
+}
+
+.key-holder {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  left: 0px;
+  top: 0px;
+
+  background: rgba(52, 48, 48, 0.5);
+
+  background-image: url(../images/img8.webp);
+}
+.cotton-canvas {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  left: 303px;
+  top: 0px;
+
+  background: rgba(52, 48, 48, 0.5);
+
+  background-image: url(../images/img9.webp);
+}
+.kors-original {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  left: 616px;
+  top: 0px;
+
+  background: rgba(52, 48, 48, 0.5);
+
+  background-image: url(../images/img10.webp);
+}
+.women-leather {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  left: 925px;
+  top: 0px;
+
+  background: rgba(52, 48, 48, 0.5);
+
+  background-image: url(../images/img12.webp);
+}

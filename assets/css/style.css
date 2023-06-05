@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: poppins;
+  text-decoration: none;
+  list-style-type: none;
+}
+.main-card {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.furniture {
+  background-image: url(../images/img4.webp);
+}
+.cup {
+  background-image: url(../images/img5.webp);
+}
+.bag {
+  background-image: url(../images/img6.webp);
+}
+.pencil-holder {
+  background-image: url(../images/img7.webp);
+}
+.key-holder {
+  background-image: url(../images/img8.webp);
+}
+.cotton-canvas {
+  background-image: url(../images/img9.webp);
+}
+.kors-original {
+  background-image: url(../images/img10.webp);
+}
+.women-leather {
+  background-image: url(../images/img12.webp);
+}
+.article1 {
+  background-image: url(../images/img13.jpg);
+}
+.article2 {
+  background-image: url(../images/img14.jpg);
+}
+.article3 {
+  background-image: url(../images/img15.jpg);
+}

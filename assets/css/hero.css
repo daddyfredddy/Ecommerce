@@ -1,0 +1,279 @@
+/* overall style */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  position: relative;
+  width: 1280px;
+  height: 2809px;
+
+  background: #ffffff;
+}
+.hero {
+  position: absolute;
+  width: 1280px;
+  height: 812px;
+  left: 0px;
+  top: 0px;
+
+  background-image: url(../images/img1.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* background-attachment: fixed; */
+}
+.hero-header {
+  position: absolute;
+  width: 1207px;
+  height: 28px;
+  left: calc(50% - 1207px / 2 + 0.5px);
+  top: 34px;
+}
+#site_logo {
+  position: absolute;
+  width: 113px;
+  height: 27px;
+  left: 0px;
+  top: 0px;
+}
+.nav-menu {
+  position: absolute;
+  width: 379px;
+  height: 26px;
+  left: calc(50% - 379px / 2 + 17.5px);
+  top: 0px;
+
+  display: flex;
+}
+.Portfolio {
+  position: absolute;
+  width: 92px;
+  height: 26px;
+  left: 0px;
+  top: 0px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 33px;
+  /* or 165% */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+.blog {
+  position: absolute;
+  width: 44px;
+  height: 26px;
+  left: 119px;
+  top: 0px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 33px;
+  /* or 165% */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+.shop {
+  position: absolute;
+  width: 71px;
+  height: 26px;
+  left: 190px;
+  top: 0px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 33px;
+  /* or 165% */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+.contact {
+  position: absolute;
+  width: 91px;
+  height: 26px;
+  left: 288px;
+  top: 0px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 33px;
+  /* or 165% */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.group1 {
+  position: absolute;
+  width: 101px;
+  height: 28px;
+  left: 1106px;
+  top: 0px;
+}
+#user {
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  left: 0px;
+  top: 0px;
+}
+#shopping-cart {
+  position: absolute;
+  width: 101px;
+  height: 28px;
+  left: 38.12px;
+  top: 0px;
+}
+#menu {
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  left: 77.38px;
+  top: 0px;
+}
+.hero-content {
+  position: absolute;
+  width: 521px;
+  height: 204px;
+  left: 396px;
+  top: 315px;
+
+  background: rgba(255, 255, 255, 0.83);
+}
+.group3 {
+  position: absolute;
+  width: 396px;
+  height: 84px;
+  left: 63px;
+  top: 70px;
+}
+.new-product {
+  position: absolute;
+  width: 396px;
+  height: 32px;
+  left: calc(50% - 396px / 2 + 17px);
+  top: 0px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 33px;
+  /* or 110% */
+
+  text-align: center;
+
+  color: #000000;
+}
+#shop-now {
+  position: absolute;
+  width: 110px;
+  height: 32px;
+  left: calc(50% - 100px / 2 + 17px);
+  top: 52px;
+
+  font-family: "Dosis";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 33px;
+  /* or 165% */
+
+  text-align: center;
+  text-decoration-line: underline;
+
+  color: #000000;
+}
+.message {
+  position: absolute;
+  width: 1206px;
+  height: 299px;
+  left: 37px;
+  top: 870px;
+}
+.furniture-collection {
+  position: absolute;
+  width: 588px;
+  height: 299px;
+  left: calc(50% - 1206px / 2);
+  top: 0px;
+
+  background-image: url(../images/img2.webp);
+  background-repeat: no-repeat;
+}
+.basket-collection {
+  position: absolute;
+  width: 588px;
+  height: 299px;
+  left: 618px;
+  top: 0px;
+
+  background-image: url(../images/img3.webp);
+}
+.group5 {
+  position: absolute;
+  width: 245px;
+  height: 71px;
+  left: 24px;
+  top: 111px;
+}
+.new-collection {
+  position: absolute;
+  width: 245px;
+  height: 23px;
+  left: 0px;
+  top: 0px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 25px;
+  /* or 125% */
+
+  text-align: center;
+
+  color: #000000;
+}
+#shop-now1 {
+  position: absolute;
+  width: 88px;
+  height: 32px;
+  left: 0px;
+  top: 39px;
+
+  font-family: "Dosis";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 33px;
+  /* or 206% */
+
+  text-align: center;
+  text-decoration-line: underline;
+
+  color: #000000;
+}

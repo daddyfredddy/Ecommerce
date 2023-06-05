@@ -1,0 +1,360 @@
+/* styling tablet design */
+
+@media (max-width: 744px) {
+  .nav-menu {
+    display: none;
+  }
+  .hero {
+    position: absolute;
+    width: 744px;
+    height: 812px;
+    background-position: center;
+    background-size: cover;
+    /* background-attachment: fixed; */
+  }
+  .hero-header {
+    width: 689px;
+    left: 20px;
+  }
+  .group1 {
+    width: 101px;
+    left: 588px;
+  }
+  .hero-content {
+    width: 330px;
+    left: 206px;
+  }
+  .group3 {
+    width: 199px;
+    left: 65px;
+    top: 30px;
+  }
+  .new-product {
+    position: absolute;
+    width: 199px;
+    left: 0px;
+  }
+  #shop-now {
+    width: 88px;
+    top: 78px;
+    left: calc(50% - 72px / 2 - 2px);
+  }
+  .message {
+    width: 717px;
+    left: 14px;
+    height: 178.07;
+  }
+  .furniture-collection {
+    width: 350px;
+    height: 178.07px;
+    left: 0px;
+
+    background-size: cover;
+  }
+  .group5 {
+    width: 138px;
+    height: 97px;
+    top: 38px;
+  }
+  .new-collection {
+    width: 138px;
+  }
+  #shop-now1 {
+    width: 88px;
+    height: 32px;
+    top: 65px;
+  }
+  .basket-collection {
+    width: 350px;
+    height: 178.07px;
+    left: 367px;
+
+    background-size: cover;
+  }
+  .recent-products {
+    width: 695px;
+    height: 782px;
+    top: 1085px;
+    left: 17px;
+  }
+  .group15 {
+    width: 694px;
+    height: 220px;
+    top: 60px;
+    left: 0px;
+  }
+  .main-card {
+    width: 220px;
+    height: 220px;
+
+    background-size: cover;
+  }
+  .furniture {
+    left: 0px;
+  }
+  .cup {
+    left: 237px;
+  }
+  .bag {
+    left: 474px;
+  }
+  .group16 {
+    width: 695px;
+    height: 220px;
+    top: 251px;
+    left: 0px;
+  }
+  .pencil-holder {
+    left: 0px;
+    top: 251px;
+  }
+  .key-holder {
+    left: 237px;
+    top: 60px;
+  }
+  .cotton-canvas {
+    left: 474px;
+    top: 60px;
+  }
+  .kors-original {
+    left: 0px;
+    top: 312px;
+  }
+  .women-leather {
+    left: 237px;
+    top: 312px;
+  }
+  .blog {
+    width: 692px;
+    height: 753px;
+    top: 1911px;
+  }
+  .aside-card {
+    width: 330px;
+    height: 330px;
+
+    background-size: cover;
+  }
+  .group19 {
+    width: 692px;
+    height: 694px;
+    top: 59px;
+    left: 0px;
+  }
+  .article1 {
+    left: 0px;
+  }
+  .article2 {
+    left: 362px;
+  }
+  .article3 {
+    left: 0px;
+    top: 364px;
+  }
+  .footer {
+    width: 744px;
+    height: 292px;
+    left: 0px;
+    top: 2731px;
+  }
+  .footer-copyright {
+    width: 670px;
+    height: 37px;
+    left: 34px;
+    top: 227px;
+  }
+  .group21 {
+    width: 676px;
+    height: 159px;
+    top: 40px;
+    left: 34px;
+  }
+  .group14 {
+    width: 238px;
+    height: 24px;
+    left: 34px;
+    top: 13px;
+  }
+  #line {
+    width: 670px;
+  }
+  .subscribe {
+    width: 336px;
+    height: 113px;
+    top: 46px;
+    left: 340px;
+  }
+}
+
+@media (max-width: 375px) {
+  .nav-menu {
+    display: none;
+  }
+  .hero {
+    position: absolute;
+    width: 375px;
+    height: 812px;
+    background-position: center;
+    background-size: cover;
+    /* background-attachment: fixed; */
+  }
+  .hero-header {
+    width: 335px;
+    left: 20px;
+  }
+  .group1 {
+    width: 101px;
+    left: 243px;
+  }
+  .hero-content {
+    width: 330px;
+    left: 22px;
+  }
+  .message {
+    width: 350px;
+    left: 12px;
+    height: 377.07px;
+    top: 865px;
+  }
+  .furniture-collection {
+    width: 350px;
+    height: 178.07px;
+    left: 0px;
+
+    background-size: cover;
+  }
+  .group5 {
+    width: 138px;
+    height: 97px;
+    top: 38px;
+  }
+  .new-collection {
+    width: 138px;
+  }
+  #shop-now1 {
+    width: 88px;
+    height: 32px;
+    top: 65px;
+  }
+  .basket-collection {
+    width: 350px;
+    height: 178.07px;
+    left: 0px;
+    top: 199px;
+
+    background-size: cover;
+  }
+  .recent-products {
+    width: 350px;
+    height: 3006px;
+    top: 1295px;
+    left: 12px;
+  }
+  .main-card {
+    width: 350px;
+    height: 350px;
+
+    background-size: cover;
+  }
+  .group15 {
+    width: 350px;
+    height: 2933px;
+    top: 73px;
+    left: 0px;
+  }
+  .furniture {
+    left: 0px;
+    top: 0px;
+  }
+  .cup {
+    left: 0px;
+    top: 369px;
+  }
+  .bag {
+    left: 0px;
+    top: 738px;
+  }
+  .pencil-holder {
+    left: 0px;
+    top: 1107px;
+  }
+  .key-holder {
+    left: 0px;
+    top: 1476px;
+  }
+  .cotton-canvas {
+    left: 0px;
+    top: 1845px;
+  }
+  .kors-original {
+    left: 0px;
+    top: 2214px;
+  }
+  .women-leather {
+    left: 0px;
+    top: 2583px;
+  }
+  .blog {
+    width: 350px;
+    height: 1150px;
+    top: 4337px;
+    left: 12px;
+  }
+  .aside-card {
+    width: 350px;
+    height: 350px;
+
+    background-size: cover;
+  }
+
+  .article1 {
+    left: 0px;
+    top: 62px;
+  }
+  .article2 {
+    left: 0px;
+    top: 431px;
+  }
+  .article3 {
+    left: 0px;
+    top: 800px;
+  }
+  .footer {
+    width: 375px;
+    height: 480px;
+    left: 0px;
+    top: 5533px;
+  }
+  .footer-copyright {
+    width: 336.01px;
+    height: 45.98px;
+    left: 19px;
+    top: 408.02px;
+  }
+  .footer-address {
+    width: 262px;
+    height: 95px;
+    top: 94px;
+  }
+  /* .group21 {
+    width: 676px;
+    height: 159px;
+    top: 40px;
+    left: 34px;
+  }
+  .group14 {
+    width: 238px;
+    height: 24px;
+    left: 34px;
+    top: 13px;
+  } */
+  #line {
+    width: 100px;
+  }
+  .subscribe {
+    width: 336px;
+    height: 113px;
+    top: 252px;
+    left: 0px;
+  }
+}
